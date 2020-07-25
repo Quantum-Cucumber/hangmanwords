@@ -6,4 +6,4 @@ The wordlist was originally downloaded from [this repository](https://github.com
 
 The intent for this repo is to allow users to help remove words that shouldn't be kept, ~6k words is a LOT so mistakes have very likely been made when filtering.
 
-Contributing: uh, just add a pull request or an issue lol
+Contributing: Add a pull request if you want, otherwise you can add an issue - just make sure to include the line# and the word(s) that needs to be removed :)
